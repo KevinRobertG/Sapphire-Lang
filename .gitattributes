@@ -1,1 +1,2 @@
 *.v linguist-language=V
+*.v linguist-detectable=true
